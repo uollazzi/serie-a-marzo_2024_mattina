@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'serie-a';
+  scoperta_america = -15059606400000;
 }
